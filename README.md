@@ -96,3 +96,7 @@ If you use this dataset, please cite our paper or use the following Bibtex.
     primaryClass={cs.RO}
 }
 ```
+
+##francis note
+install opencv for ubuntu 16
+and use the newly created yolo files to access for performance. 
